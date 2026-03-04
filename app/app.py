@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 import plotly.express as px
 
-model = joblib.load(r"C:\Users\user\ML_basic\Model\best_model.pkl")
+model = joblib.load(r"C:/Users/user/ML_basic/Model\best_model.pkl")
 
 # ==========================================================
 # PAGE CONFIG
