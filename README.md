@@ -177,30 +177,6 @@ The system predicts **estimated medical insurance cost instantly**.
 
 ---
 
-
-# 🛠️ Tech Stack
-
-### Programming
-
-- Python
-
-### Libraries
-
-- Pandas
-- NumPy
-- Scikit-learn
-- Plotly
-- Streamlit
-- Joblib
-
-### Tools
-
-- Jupyter Notebook
-- VS Code
-- GitHub
-
----
-
 # 📂 Project Structure
 Medical_Cost_Intelligence_system  
 │  
