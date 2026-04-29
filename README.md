@@ -9,7 +9,7 @@
 > An end-to-end **Machine Learning and Analytics Dashboard** that predicts healthcare insurance costs using demographic and health data.
  
 ---  
-
+ 
 # 📌 Project Overview
 
 Healthcare insurance companies must estimate medical costs accurately in order to:
