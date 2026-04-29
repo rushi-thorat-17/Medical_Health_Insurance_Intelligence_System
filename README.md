@@ -10,7 +10,7 @@
  
 ---   
  
-# 📌 Project Overview
+# 📌 Project Overview 
 
 Healthcare insurance companies must estimate medical costs accurately in order to:
 
