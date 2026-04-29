@@ -1,6 +1,5 @@
 # 🏥 Medical Cost Intelligence System
 
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
